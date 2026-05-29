@@ -230,10 +230,10 @@ Asynchronous-FIFO/
 
 ## 👤 Author
 
-**[Your Name]**  
+**Nimmana Shashank Krishna**  
 B.E / B.Tech — VLSI / ECE / EEE  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+📧 nimmana.shashank@example.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/nimmana-shashank-krishna-423516258) | [GitHub](https://github.com/NimmanaShashankKrishna)
 
 ---
 
